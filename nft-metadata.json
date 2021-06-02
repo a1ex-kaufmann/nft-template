@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Breed",
+      "value" : "Siberian"
+    }, {
+      "trait_type" : "Eye color",
+      "value" : "Green"
+    } ],
+    "description" : "The most serious cat in the world.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmPvYKnzC87Ca4e9nm7oE4UViZJWXoRpBPeYnq6RJ7rcxr",
+    "name" : "FoxCat"
+}

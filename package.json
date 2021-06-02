@@ -1,0 +1,30 @@
+{
+  "name": "nft-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexey-zhdanov/nft-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexey-zhdanov/nft-template/issues"
+  },
+  "homepage": "https://github.com/alexey-zhdanov/nft-template#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-etherscan": "^2.1.2",
+    "ethers": "^5.2.0",
+    "hardhat": "^2.3.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.1.0-solc-0.7",
+    "dotenv": "^10.0.0"
+  }
+}
